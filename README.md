@@ -1,2 +1,4 @@
 # Develop-Data-Product
-Develop-Data-Product
+
+Coursera-Developing-Data-Products
+Programming Assignments of Coursera.com online course: Developing Data Products
